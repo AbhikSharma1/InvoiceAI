@@ -1,0 +1,24 @@
+import React from 'react'
+import Navbar from '../components/Navbar'
+import Hero from '../components/Hero'
+import Features from '../components/Features'
+import Pricing from '../components/Pricing'
+import Footer from '../components/Footer'
+
+const Home = () => {
+  return (
+    <div>
+      <Navbar />
+      <main className=''>
+        <Hero />
+        <div >
+            <Features />
+        </div>
+        <Pricing />
+      </main>
+      <Footer />
+    </div>
+  )
+}
+
+export default Home
