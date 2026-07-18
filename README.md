@@ -159,7 +159,19 @@ The frontend runs on `http://localhost:5173`
 ## Screenshots
 
 > Dashboard, invoice list, AI generation, and business profile pages are all included in the app.
+> 
 > <img width="483" height="406" alt="image" src="https://github.com/user-attachments/assets/6b4d79d9-292f-4c7d-8c90-fca699a5eaac" />
+
+<img width="953" height="405" alt="image" src="https://github.com/user-attachments/assets/db8b407e-b521-4eaa-8488-84f6525711e7" />
+
+<img width="943" height="410" alt="image" src="https://github.com/user-attachments/assets/e684a8a2-e2e7-4506-b95a-d3ba0955055b" />
+
+<img width="922" height="402" alt="image" src="https://github.com/user-attachments/assets/870bda1d-a977-4880-9bb0-5de73b85245e" />
+
+<img width="943" height="412" alt="image" src="https://github.com/user-attachments/assets/beaa82f2-2d03-4653-8272-7f6d3590194b" />
+
+
+
 
 
 
